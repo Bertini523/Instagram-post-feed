@@ -1,0 +1,8 @@
+body{background: lightgrey; margin: 0;}
+header{background: white; padding: 1px;}
+div.post{background: white; width: 545px; height: 430px; margin-top: 75px; margin-bottom: 75px;}
+div.post-feed{width: 600px; margin: auto;}
+div.post img{width: 100%; height: 280px;}
+div.post h3, p, span{padding: 5px;}
+div.post .header div:first-child{display: inline-block; width: 80%;}
+div.post .header div:last-child{display: inline-block; width: 19%; text-align: right;}
